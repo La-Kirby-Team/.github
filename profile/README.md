@@ -12,10 +12,10 @@ PLusieurs Laboratoires ont été effectués lors de ce cours:
 - [Lab01](https://github.com/La-Kirby-Team/Lab01)
 
 ## Projet
-La-Kirby-Team a effectué tout au long du semestre un projet nommé Winventory. 
+La-Kirby-Team a effectué tout au long du semestre un projet nommé [Winventory](https://github.com/La-Kirby-Team/BDR-Project). 
 Ce projet a pour but de gérer l'organisation d'une cave à vins/magasin de vins et de répertorier les clients.
 
-[Winventory](https://github.com/La-Kirby-Team/BDR-Project)
+
 
 # Warning
 Tout type de plagiat sera reporté et dénoncé
