@@ -7,7 +7,7 @@ Cette organisation permet la lecture et la suggestion de modification uniquement
 
 Les administrateurs se feront un plaisir de lire vos suggestions, de les approuver et de vous ajouter à la liste des contributeurs de l'organisation.
 
-## Laboratoire
+## Laboratoires
 PLusieurs Laboratoires ont été effectués lors de ce cours:
 - [Lab01](https://github.com/La-Kirby-Team/Lab01)
 
