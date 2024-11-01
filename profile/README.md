@@ -13,6 +13,7 @@ PLusieurs Laboratoires ont été effectués lors de ce cours:
 
 ## Projet
 La-Kirby-Team a effectué tout au long du semestre un projet nommé [Winventory](https://github.com/La-Kirby-Team/BDR-Project). 
+
 Ce projet a pour but de gérer l'organisation d'une cave à vins/magasin de vins et de répertorier les clients.
 
 
