@@ -9,7 +9,7 @@ Les administrateurs se feront un plaisir de lire vos suggestions, de les approuv
 
 ## Laboratoire
 PLusieurs Laboratoires ont été effectués lors de ce cours:
-- [Lab01]{https://github.com/La-Kirby-Team/Lab01}
+- [Lab01](https://github.com/La-Kirby-Team/Lab01)
 
 ## Projet
 La-Kirby-Team a effectué tout au long du semestre un projet nommé Winventory. 
