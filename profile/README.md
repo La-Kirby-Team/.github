@@ -1,6 +1,6 @@
 # <font color='pink'>La-Kirby-Team </font>
 ## Introduction
-La-Kirby-Team est une organisation Github permettant de répertorier les projets et laboratoires effectués lors du cours de BDR (Bases de Données Relationnelles) donné par Sébastien Rosat en l'année (scolaire) de grâce 2024-2025.
+La-Kirby-Team est une organisation Github permettant de répertorier les projets et laboratoires effectués lors du cours de BDR (Bases de Données Relationnelles) donné par Sébastien Rosat en l'an de grâce 2024(-2025).
 
 ## Accès
 Cette organisation permet la lecture et la suggestion de modification uniquement pour les membres. 
